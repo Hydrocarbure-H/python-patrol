@@ -14,6 +14,8 @@ This little script is mainly used with Django Projects. Maybe some other Python 
 - Security analysis with `bandit`
 - Running test suites
 
+<img width="842" alt="image" src="https://github.com/user-attachments/assets/c0ed7cac-6f97-4a3b-adff-cb145ff36f7a">
+
 ## Usage
 Clone the repository containing the script:
 ```bash
