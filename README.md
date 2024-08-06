@@ -38,9 +38,6 @@ Create a wrapper script `run.sh`
 # Navigate to the scripts directory
 cd scripts/patrol
 
-# Pull the latest changes
-git pull origin main
-
 # Make sure the script is executable
 chmod +x python-patrol.sh
 
