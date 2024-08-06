@@ -31,7 +31,8 @@ Make the script executable
 ```bash
 chmod +x scripts/patrol/patrol.sh
 ```
-Create a wrapper script `run.sh`
+> **(Optional): Create a wrapper script `run.sh`**
+> Sometimes, you have to be at the root of your project to run some scripts, sometimes you don't.*
 ```bash
 #!/bin/bash
 
@@ -42,9 +43,6 @@ Create a wrapper script `run.sh`
 # ./pat-patrouille.sh
 # ./les-ratz.sh
 # ./croc-scooby.sh
-
-# Go back to your project directory
-cd -
 ```
 Make your script executable with a `chmod +x run.sh`
 Then finaly run
