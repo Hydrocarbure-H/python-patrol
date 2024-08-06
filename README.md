@@ -1,6 +1,16 @@
 # Python Patrol
 Pat Patrouille, Paw Patrol... Python Patrol ensures that the codebase adheres to the best practices and standards, thus enhancing code reliability, readability, and maintainability.
 This little script is mainly used with Django Projects. Maybe some other Python frameworks would need other `--exclude` parameters or a different usage to launch the testsuite.
+
+<img width="842" alt="image" src="https://github.com/user-attachments/assets/c0ed7cac-6f97-4a3b-adff-cb145ff36f7a">
+
+## Table of Contents
+
+1. [Features](#features)
+2. [Requirements](#requirements)
+3. [Dependencies](#dependencies)
+4. [Usage](#usage)
+
 ## Features
 
 - Sorting and organizing imports using `isort`
@@ -13,8 +23,6 @@ This little script is mainly used with Django Projects. Maybe some other Python 
 - Cyclomatic complexity measurement using `radon`
 - Security analysis with `bandit`
 - Running test suites
-
-<img width="842" alt="image" src="https://github.com/user-attachments/assets/c0ed7cac-6f97-4a3b-adff-cb145ff36f7a">
 
 ## Requirements
 
