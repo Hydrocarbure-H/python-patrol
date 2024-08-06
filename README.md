@@ -35,14 +35,8 @@ Create a wrapper script `run.sh`
 ```bash
 #!/bin/bash
 
-# Navigate to the scripts directory
-cd scripts/patrol
-
-# Make sure the script is executable
-chmod +x python-patrol.sh
-
 # Run the patrol script
-./patrol.sh
+./scripts/patrol.sh
 
 # Run other scripts
 # ./pat-patrouille.sh
