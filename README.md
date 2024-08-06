@@ -32,7 +32,7 @@ Make the script executable
 chmod +x scripts/patrol/patrol.sh
 ```
 > **(Optional): Create a wrapper script `run.sh`**
-> Sometimes, you have to be at the root of your project to run some scripts, sometimes you don't.*
+> *Sometimes, you have to be at the root of your project to run some scripts, sometimes you don't.*
 ```bash
 #!/bin/bash
 
