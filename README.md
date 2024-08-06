@@ -1,6 +1,6 @@
 # Python Patrol
- Pat Patrouille, Paw Patrol... Python Patrol ensures that the codebase adheres to the best practices and standards, thus enhancing code reliability, readability, and maintainability.
-
+Pat Patrouille, Paw Patrol... Python Patrol ensures that the codebase adheres to the best practices and standards, thus enhancing code reliability, readability, and maintainability.
+This little script is mainly used with Django Projects. Maybe some other Python frameworks would need other `--exclude` parameters or a different usage to launch the testsuite.
 ## Features
 
 - Sorting and organizing imports using `isort`
