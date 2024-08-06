@@ -15,6 +15,7 @@ This little script is mainly used with Django Projects. Maybe some other Python 
 - Running test suites
 
 <img width="842" alt="image" src="https://github.com/user-attachments/assets/c0ed7cac-6f97-4a3b-adff-cb145ff36f7a">
+
 ## Requirements
 
 To run this script, ensure you have the following installed and properly configured in your environment:
