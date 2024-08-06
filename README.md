@@ -69,6 +69,7 @@ pytest = "^6.2.5"
 ## Usage
 Clone the repository containing the script:
 ```bash
+cd path/to/your/project
 git clone https://github.com/Hydrocarbure-H/python-patrol.git
 ```
 Or add as a Git Submodule
