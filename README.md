@@ -45,10 +45,12 @@ git pull origin main
 chmod +x python-patrol.sh
 
 # Run the patrol script
-./python-patrol.sh
+./patrol.sh
 
 # Run other scripts
 # ./pat-patrouille.sh
+# ./les-ratz.sh
+# ./croc-scooby.sh
 
 # Go back to your project directory
 cd -
