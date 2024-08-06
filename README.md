@@ -24,11 +24,12 @@ git clone https://github.com/Hydrocarbure-H/python-patrol.git
 Or Add as a Git Submodule
 ```bash
 mkdir -p scripts scripts/patrol
-git submodule add https://github.com/Hydrocarbure-H/python-patrol.git scripts/patrol
+git submodule add https://github.com/Hydrocarbure-H/python-patrol.git patrol
+mv patrol scripts/
 ```
 Make the script executable
 ```bash
-chmod +x /path/to/your/project/scripts/patrol/python-patrol.sh
+chmod +x scripts/patrol/patrol.sh
 ```
 Create a wrapper script `run.sh`
 ```bash
