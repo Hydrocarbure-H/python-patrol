@@ -55,8 +55,3 @@ Then finaly run
 ```bash
 ./run.sh
 ```
-
-To use this script, follow these steps:
-
-1. Clone the repository:
-
