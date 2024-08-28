@@ -89,6 +89,13 @@ chmod +x scripts/patrol/patrol.sh
 # Run the patrol script
 ./scripts/patrol.sh
 
+# Check if the code documentation coverage is at least 80%
+# run_command "poetry run interrogate --exclude \"*/migrations/*\" --exclude '*/admin.py' \
+# --exclude '*/__init__.py' --exclude '*/apps.py' . -v" "interrogate " "🔍"
+
+# Build the documentation
+# run_command "./scripts/docs/docs.sh" "sphinx" "📖"
+
 # Run other scripts
 # ./pat-patrouille.sh
 # ./les-ratz.sh
